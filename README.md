@@ -11,4 +11,4 @@ Once you complete the development of the app you must ZIP all of your Visual Stu
 You must submit 2 deliverables: A .ZIP containing ALL of your Visual Studio Project files and the .MP4. 
 
 
-The recording can be found here: https://youtu.be/V-W5kbuPZZs
+(The recording can be found here: https://youtu.be/V-W5kbuPZZs)
